@@ -1,8 +1,12 @@
 # unicoding
-This is my repository from cipher
+Hi! This is my repository from cipher
 
-# Syntax
+## Syntax
 (command):{command_args}
 
-# Commands
+### example:
+(print):{"Hello world!"}
+
+
+## Commands
 print
