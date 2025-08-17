@@ -12,3 +12,6 @@ Hi! This is my project on python, he based on SLY library (https://github.com/da
 
 ### Commands
 print
+
+# License
+the project is provided with a license: MIT License
