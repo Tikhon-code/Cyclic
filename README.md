@@ -13,5 +13,8 @@ Hi! This is my project on python, he based on SLY library (https://github.com/da
 ### Commands
 print
 
+# Future
+switch main lang to C
+
 # License
 the project is provided with a license: MIT License
