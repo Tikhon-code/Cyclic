@@ -1,12 +1,14 @@
-# unicoding
-Hi! This is my repository from cipher
+# Cyclic
+Hi! This is my project on python, he based on SLY library (https://github.com/dabeaz/sly)
 
-## Syntax
+### Syntax
 (command):{command_args}
 
-### example:
-(print):{"Hello world!"}
+### templates
+(print):{"Hi!"}
 
+### Hello, World!
+(print):{"Hello, World!"}
 
-## Commands
+### Commands
 print
